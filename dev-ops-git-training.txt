@@ -16,6 +16,12 @@ Step-15: System will shown for firsttime : option 1 for webbrowser of https: git
 Step-16: The moment it will connect files will checkin in Master branch of git accout 
 Step-17  Modifying file  echo " Modifyfile 1 " >> file1.txt  , echo " Modify file two " >> file2.txt
 Step-18 :git status file1.txt and file2. txt in red color 
+Step-19: git commit -m "second commit"
+
+Step-20 : Create Branch  : git branch 
+Step-21 : git branch branch1 
+Step-22 : git branch
+Step-23 : git branch checkout branch1 
 
 
 
